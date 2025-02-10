@@ -1,3 +1,0 @@
-# Ignore only the rt_reviews.csv file inside the Data directory
-!Data/
-Data/rt_reviews.csv
