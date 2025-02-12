@@ -55,7 +55,7 @@ Models/
     ├── tokenizer.pkl
     └── model_params.json
 ```
-### Lode the models
+### Load the models
 ```python
 
     from tensorflow.keras.models import load_model
